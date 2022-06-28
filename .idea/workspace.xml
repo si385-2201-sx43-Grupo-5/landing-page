@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65030ad5-d335-47ee-b6da-3f4c03617a31" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Azcr1EwUdeVL8ZLMlCLwFVLacf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UPC/upc/ciclo 2022-01/IHC y Tecnologias Moviles/TB4/website-menu-04/images&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UPC\upc\ciclo 2022-01\IHC y Tecnologias Moviles\TB4\website-menu-04\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UPC\upc\ciclo 2022-01\IHC y Tecnologias Moviles\TB4\website-menu-04\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65030ad5-d335-47ee-b6da-3f4c03617a31" name="Changes" comment="" />
+      <created>1656016049122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656016049122</updated>
+      <workItem from="1656016050335" duration="4049000" />
+      <workItem from="1656020119793" duration="104000" />
+      <workItem from="1656020302799" duration="484000" />
+      <workItem from="1656020795440" duration="10366000" />
+      <workItem from="1656191704109" duration="14466000" />
+      <workItem from="1656281376887" duration="243000" />
+      <workItem from="1656295051545" duration="6035000" />
+      <workItem from="1656310224508" duration="750000" />
+      <workItem from="1656371444790" duration="13862000" />
+      <workItem from="1656386390784" duration="4724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
